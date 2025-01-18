@@ -1,0 +1,11 @@
+{
+  "name": "mdev1004assignment1",
+  "version": "1.0.0",
+  "description": "MDEV 1004 Winter 2025 Assignment 1. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omer Cagri Sayir",
+  "license": "ISC"
+}
