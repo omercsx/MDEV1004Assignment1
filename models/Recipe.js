@@ -26,10 +26,6 @@ const recipeSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    photoLink: {
-        type: String,
-        required: true
-    },
     averageRating: {
         type: Number,
         min: 0,
